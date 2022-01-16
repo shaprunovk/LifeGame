@@ -12,10 +12,12 @@ The repository contains the implementation of the ["Life" game](https://en.wikip
 5. Press "G" to spawn a [Glider](https://en.wikipedia.org/wiki/Glider_(Conway%27s_Life)), each spawn moves the place of spawn 5 cells to the right
 6. Press "Q" to quit the game.
 
+**Glider**
+
+![Glider](/img/Glider.jpg)
+
 **GosperGliderGun**
 
 ![Gosper Glider Gun](/img/GGG.jpg)
 
-**Glider**
 
-![Glider](/img/Glider.jpg)
