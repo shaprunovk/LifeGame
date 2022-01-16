@@ -2,7 +2,7 @@
 LifeGame on Python3.9 with pygame2
 
 # Description 
-The repository contains the implementation of the ["Life" game](https://ru.wikipedia.org/wiki/Игра_ "Life") on Python3.9 using visualization with pygame2.
+The repository contains the implementation of the ["Life" game](https://ru.wikipedia.org/wiki/Игра_"Life") on Python3.9 using visualization with pygame2.
 
 ## Manual
 1. Press "R" to make a random population.
