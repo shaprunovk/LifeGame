@@ -5,7 +5,9 @@ LifeGame on Python3.9 with pygame2
 The repository contains the implementation of the ["Life" game](https://en.wikipedia.org/wiki/Conway%27s_Game_of_Life) on Python3.9 using visualization with pygame2.
 
 ## Requirements
+
 -Python3
+
 -[pygame2](https://www.pygame.org/news)
 
 ## Manual
