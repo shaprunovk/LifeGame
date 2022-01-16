@@ -13,7 +13,9 @@ The repository contains the implementation of the ["Life" game](https://en.wikip
 6. Press "Q" to quit the game.
 
 **GosperGliderGun**
+
 ![Gosper Glider Gun](/img/GGG.jpg)
 
 **Glider**
+
 ![Glider](/img/Glider.jpg)
