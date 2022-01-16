@@ -9,7 +9,7 @@ The repository contains the implementation of the ["Life" game](https://en.wikip
 -[pygame2](https://www.pygame.org/news)
 
 ## Manual
-Run ```sh python3 main.py``` to play.
+Run ```python3 main.py``` to play.
 1. Press "R" to make a random population.
 2. Press "C" to clear a population.
 3. Press "P" to pause the game.
