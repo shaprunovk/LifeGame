@@ -137,7 +137,7 @@ class Game:
             for row in range(self.rows_cnt):
                 next_color = self.seed_field.current[column][row].recolor(self)
                 temp.current[column][row] = self.Field.Cell(color=next_color, column=column, row=row)
-        self.seed_field = temp
+        self.seed_field.current = temp.current
 
     def press_buttons(self):
         for event in pygame.event.get():
